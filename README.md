@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Inshal
 - 👀 I’m interested in Learning new upcoming languages
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning python
 - 📫 How to reach me ... inshalrrr@gmail.com
 
 <!---
