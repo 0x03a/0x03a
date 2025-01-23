@@ -13,6 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Where I learn skills
 
-![CodeDex](https://github.com/user-attachments/assets/802a0586-d145-49be-89a5-8f5bae081331)
-
+[![CodeDex](https://github.com/user-attachments/assets/802a0586-d145-49be-89a5-8f5bae081331)](https://www.codedex.io/@0x03a)
 
