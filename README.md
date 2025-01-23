@@ -12,5 +12,6 @@ You can click the Preview link to take a look at your changes.
 [![LeetCode](https://camo.githubusercontent.com/484c5a914e87576e0ed5771701f361836463092c05c5abf12b291b550ab810ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b)](https://leetcode.com/u/inshalbro/)
 
 ## Where I learn skills
-![image](https://github.com/user-attachments/assets/20e13869-ece0-464f-99c6-c99b617f79ab)
+![406110864-20e13869-ece0-464f-99c6-c99b617f79ab](https://github.com/user-attachments/assets/b594fa35-52db-4dc3-a02b-11dad7d41be9)
+
 
