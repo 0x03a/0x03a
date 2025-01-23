@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Inshal
-- 👀 I’m interested in Learning new upcoming languages
+- 👀 I’m interested in Learning new upcoming languages and algorithms
 - 🌱 I’m currently learning python
 - 📫 How to reach me ... inshalrrr@gmail.com
 
