@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Inshal.<br>I am currently working on my project "Data Breach Checker".<br>👀I'm interested in learning new and upcoming programming languages and algorithms.<br>🌱 I’m currently learning python.<br>📫 How to reach me ... inshalrrr@gmail.com<br>
+<br>👋 Hi, I’m Inshal.<br>👀I'm interested in learning new and upcoming programming languages and algorithms..<br>📫 How to reach me ... inshalrrr@gmail.com<br>
 
 
 ## 🌐 Socials:
