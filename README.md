@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Inshal.<br>👀I'm interested in learning new and upcoming programming languages and algorithms..<br>📫 How to reach me ... inshalrrr@gmail.com<br>
+<br>👋 Hi, I’m Inshal.<br>👀I'm interested in learning new and upcoming programming languages and algorithms..<br> ⚡ My hoobbies are reading books and playing table football. <br>📫 How to reach me ... inshalrrr@gmail.com<br>
 
 
 ## 🌐 Socials:
